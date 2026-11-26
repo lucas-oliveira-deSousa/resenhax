@@ -398,5 +398,24 @@ footer::after {
         font-size: 30px;
     }
 }
+.personagens {
+    position: absolute;
+    right: 50px;
+    top: 170px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+.giorno {
+    width: 400px;
+    height: auto;
+}
+
+.tung {
+    width: 110px;
+    height: auto;
+    margin-top: -10px;
+    filter: drop-shadow(0 0 8px yellow);
+}
 
